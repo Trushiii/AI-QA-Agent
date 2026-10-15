@@ -1,6 +1,6 @@
 # AI QA Agent — Playwright MCP + GitHub Copilot
 
-[![Playwright Tests](https://github.com/Trushiii/AI-QA-Agent/actions/workflows/playwright.yml/badge.svg)](https://github.com/Trushiii/AI-QA-Agent/actions/workflows/playwright.yml)
+[![Playwright Tests](https://github.com/YOUR_USERNAME/ai-qa-agent/actions/workflows/playwright.yml/badge.svg)](https://github.com/Trushiii/ai-qa-agent/actions/workflows/playwright.yml)
 
 ...
 
