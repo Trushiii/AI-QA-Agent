@@ -8,7 +8,7 @@ An AI-powered QA agent that reads natural-language requirements, explores a live
 
 ![Demo](demo.gif)
 
-## 🎯 What It Does
+# 🎯 What It Does
 
 Instead of writing test selectors by hand, this project uses the **Playwright Model Context Protocol (MCP) server** to give an AI agent real browser control. The agent:
 
