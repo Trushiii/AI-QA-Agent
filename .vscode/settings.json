@@ -1,0 +1,11 @@
+{
+  "github.copilot.chat.mcp.servers": {
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@latest",
+        "--allowed-origins", "https://the-internet.herokuapp.com"
+      ]
+    }
+  }
+}
