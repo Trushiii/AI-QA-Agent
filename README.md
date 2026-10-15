@@ -1,5 +1,9 @@
 # AI QA Agent — Playwright MCP + GitHub Copilot
 
+[![Playwright Tests](https://github.com/Trushiii/AI-QA-Agent/actions/workflows/playwright.yml/badge.svg)](https://github.com/Trushiii/AI-QA-Agent/actions/workflows/playwright.yml)
+
+...
+
 An AI-powered QA agent that reads natural-language requirements, explores a live web application using the Playwright MCP server, and generates working Playwright tests based on what it actually sees on the page.
 
 ![Demo](demo.gif)
